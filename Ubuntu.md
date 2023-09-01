@@ -1,3 +1,4 @@
 # Ubuntu
 
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get install -y ufw byobu && byobu
+sudo apt-get update -y && sudo apt-get dist-upgrade -y && sudo apt-get install -y ufw byobu nano vim
+byobu
